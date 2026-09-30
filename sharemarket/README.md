@@ -2,3 +2,4 @@
   
 Next.js 14 + TypeScript + Tailwind + Supabase. 같은 동네 학생끼리 대용량 상품을 소분해서 사는 매칭 서비스.
  
+ 
